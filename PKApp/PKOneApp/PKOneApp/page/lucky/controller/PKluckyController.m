@@ -22,6 +22,10 @@
 @property (nonatomic, strong) UITableView *CTContentView;
 @property (nonatomic, strong) PKluckyChooseView *chooseView;
 @property (nonatomic, copy) NSArray *chooseData;
+
+
+
+
 @end
 
 @implementation PKluckyController
